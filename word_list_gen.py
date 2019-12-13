@@ -1,7 +1,7 @@
 import time
 import pprint
 import socket
-min_input=3
+min_input=7
 curr_inp=0
 s_dict=[]
 def to_1337(word):
